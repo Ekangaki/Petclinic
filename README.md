@@ -18,7 +18,7 @@ The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggre
 
 ### With Maven command line
 ```
-git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
+git clone https://https://github.com/Ekangaki/Petclinic.git
 cd spring-framework-petclinic
 ./mvnw jetty:run-war
 # For Windows : ./mvnw.cmd jetty:run-war
